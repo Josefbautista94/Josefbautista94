@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello 👋🏻,I'm Jose<br>🎓 I earned a Bachelor of Science in Computer Science from Lehman College.<br>🔭 I’m currently working on expanding my software engineering skills through Per Scholas, focusing on full-stack development with the MERN stack (MongoDB, Express.js, React, Node.js).<br>👀 I’m looking to collaborate on web development projects, particularly those involving JavaScript, React, and backend systems with Node.js and MongoDB.<br>🤝 I’m looking for help with breaking into the tech industry and refining my job search strategy.<br>🌱 I’m currently learning modern software development methodologies, including Agile and Scrum, advanced JavaScript concepts, TypeScript, CI/CD workflows, and state management with Redux.<br>💬 Ask me about technology, coding, fitness, anime, and mixology!<br>⚡ Fun fact I have a bartending license and enjoy creating unique cocktails with precision and creativity.<br><br>
 
 
