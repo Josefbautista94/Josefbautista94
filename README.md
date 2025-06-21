@@ -42,4 +42,4 @@ Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid fou
 ---
 [![](https://visitcount.itsvg.in/api?id=Josefbautista94&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
