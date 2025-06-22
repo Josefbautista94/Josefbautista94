@@ -39,7 +39,6 @@ Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid fou
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Josefbautista94&icon=1&color=12)](https://visitcount.itsvg.in)
+
 
 
