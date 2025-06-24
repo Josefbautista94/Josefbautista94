@@ -36,8 +36,6 @@ Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid fou
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Josefbautista94&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
