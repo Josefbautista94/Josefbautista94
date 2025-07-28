@@ -1,5 +1,5 @@
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid foundation in both frontend and backend technologies.
 
