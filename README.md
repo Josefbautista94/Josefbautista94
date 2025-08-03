@@ -13,7 +13,7 @@ Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid fou
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vaDBKUy3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefbautista94/)
