@@ -34,46 +34,6 @@ Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid fou
 ![](https://nirzak-streak-stats.vercel.app/?user=Josefbautista94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josefbautista94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Hi, I’m Jose Bautista 👋
 
-Full-stack developer focused on building clean, scalable web apps with the **MERN** stack.
-
-- 🎓 **B.S. in Computer Science**, Lehman College
-- 🧠 Graduate of **Per Scholas** Software Engineering (MERN focus)
-- 🌱 Currently sharpening **TypeScript**, testing, and scalable app architecture
-- 🤝 Open to **front-end / full-stack roles**, contract or full-time (Remote US / NYC)
-- 💬 Ask me about tech, coding, fitness, anime, and mixology (I’m a certified bartender 🍸)
-
----
-
-### 🔧 Tech
-**Frontend:** React, TypeScript, JavaScript, Vite, React Router, Redux, React Hook Form, HTML, CSS, Bootstrap, Bulma  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, Postman, Vercel, EJS, Prettier, Figma, Canva, Raspberry Pi, Pi-hole
-
----
-
-### 🚀 Projects (selected)
-- **NYC Crime Tracker** — MERN + React Leaflet map, live data, bookmarks/comments, insights  
-  _React, Node.js, Express, MongoDB_ • [Repo](#) • [Demo](#)
-- **Job Tracker** — Full CRUD, auth + role-based access, filters/analytics  
-  _React, Node.js, Express, MongoDB_ • [Repo](#) • [Demo](#)
-- **Pokédex+** — API-driven app with favorites, filters, and planned map view  
-  _React_ • [Repo](#) • [Demo](#)
-
-> Tip: Pin these repos on your profile so they stay above the fold.
-
----
-
-### 🌐 Links
-[LinkedIn](https://www.linkedin.com/in/josefbautista94/) • [Portfolio](https://josebautista.biz/) • [Email](mailto:Josef.bautista22@gmail.com) • [Codewars](https://www.codewars.com/users/Josefbautista94)
-
----
-
-### 📈 Stats
-![Jose’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Josefbautista94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Josefbautista94&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josefbautista94&theme=dark&hide_border=false&layout=compact)
 
 
