@@ -1,15 +1,20 @@
-
 ## About Me :
 
-Hi, I'm **Jose Bautista** — a passionate full-stack developer with a solid foundation in both frontend and backend technologies.
+Hey, I'm **Jose Bautista** — NYC-based full-stack engineer who loves turning messy ideas into clean, shippable products.
 
-- 🎓 I hold a **Bachelor of Science in Computer Science** from Lehman College.
-- 🧠 I’m a recent **graduate of Per Scholas’ Software Engineering program**, where I focused on full-stack development using the **MERN** stack (MongoDB, Express.js, React, Node.js).
-- 🔍 I’m actively seeking opportunities to collaborate on web development projects that involve **JavaScript**, **React**, and **backend APIs** using **Node.js** and **MongoDB**.
-- 🤝 I’m looking for mentorship and support as I continue navigating my way into the tech industry.
-- 🌱 Currently learning advanced **JavaScript**, **Agile/Scrum methodologies**, and scalable app architecture.
-- 💬 Ask me about tech, coding, fitness, anime, and mixology!
-- 🍸 Fun fact: I’m a certified bartender and love crafting creative cocktails with both precision and flair.
+- 🎓 **B.S. in Computer Science** (Lehman College, 2020)
+- 🧠 **Per Scholas Software Engineering grad (2025)** — focused on the **MERN** stack + **TypeScript**
+- 🧰 I build with **React, TypeScript, Node/Express, MongoDB, Vite, Redux, React Hook Form, REST APIs** (and I’m comfy shipping EJS/server-rendered apps when it’s right)
+- 🚀 Recent work:  
+  - **NYC Crime Tracker** — full-stack MERN app with React Leaflet maps, bookmarks, comments, and insights  
+  - **Job Tracker** — auth, role-based access, CRUD, search/filters, and analytics  
+  - **Pokédex** — API integration, favorites with localStorage, and a clean UI
+- 🔭 Interests: data-driven UI, maps/geo, performance, and polished UX
+- 🤝 Open to **Frontend** or **Full-Stack** roles (NYC or remote), collabs, and mentorship
+- 🌱 Leveling up: advanced **TypeScript** patterns, testing (**Vitest/Jest**), and MongoDB aggregations
+- 💬 Ask me about tech, lifting, anime, and mixology
+- 🍸 Certified bartender — creativity + precision is my vibe
+
 
 ---
 
