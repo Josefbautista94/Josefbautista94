@@ -1,4 +1,4 @@
-## About Me :
+## About Me 
 
 Hey, I'm **Jose Bautista** — NYC-based full-stack engineer who loves turning messy ideas into clean, shippable products.
 
