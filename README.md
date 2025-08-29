@@ -1,6 +1,6 @@
 ## About Me :
 
-Hey, I'm **Jose Bautista** — NYC-based full-stack engineer who loves turning messy ideas into clean, shippable products.
+Hey, I'm **Jose Bautista** an NYC-based full-stack engineer who loves turning messy ideas into clean, shippable products.
 
 - 🎓 **B.S. in Computer Science** (Lehman College, 2020)
 - 🧠 **Per Scholas Software Engineering grad (2025)** — focused on the **MERN** stack + **TypeScript**
