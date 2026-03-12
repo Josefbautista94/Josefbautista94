@@ -1,22 +1,26 @@
-## About Me :
+## About Me
 
-Hey, I'm **Jose Bautista** an NYC-based full-stack engineer who loves turning messy ideas into clean, shippable products.
+Hi, I'm Jose Bautista, a software engineer based in New York City specializing in JavaScript and full-stack web development.
 
-- 🎓 **B.S. in Computer Science** (Lehman College, 2020)
-- 🧠 **Per Scholas Software Engineering grad (2025)** — focused on the **MERN** stack + **TypeScript**
-- 🧰 I build with **React, TypeScript, Node/Express, MongoDB, Vite, Redux, React Hook Form, REST APIs** (and I’m comfy shipping EJS/server-rendered apps when it’s right)
-- 🚀 Recent work:  
-  - **NYC Crime Tracker** — full-stack MERN app with React Leaflet maps, bookmarks, comments, and insights  
-  - **Job Tracker** — auth, role-based access, CRUD, search/filters, and analytics  
-  - **Pokédex** — API integration, favorites with localStorage, and a clean UI
-- 🔭 Interests: data-driven UI, maps/geo, performance, and polished UX
-- 🤝 Open to **Frontend** or **Full-Stack** roles (NYC or remote), collabs, and mentorship
-- 🌱 Leveling up: advanced **TypeScript** patterns, testing (**Vitest/Jest**), and MongoDB aggregations
-- 💬 Ask me about tech, lifting, anime, and mixology
-- 🍸 Certified bartender — creativity + precision is my vibe
+I earned a Bachelor of Science in Computer Science from Lehman College and completed a Software Engineering certificate at Per Scholas, where I focused on modern JavaScript development and the MERN stack.
 
+I primarily work with JavaScript and build full-stack applications using React, Node.js, Express, MongoDB, and REST APIs. I also work with Python and SQL for scripting, data processing, and database queries.
 
----
+Recent projects include:
+
+PeerTrack+  
+An AI-assisted mentorship platform developed during a hackathon that connects learners with tutors for real-time coding help and AI-powered study guidance.
+
+NYC Crime Tracker  
+A full-stack MERN application that visualizes NYPD crime data on an interactive map using React Leaflet and the NYC Open Data API. Features include filtering, bookmarking, commenting, and geographic insights.
+
+Job Tracker  
+A role-based job application tracking platform with authentication, protected routes, CRUD functionality, and an admin dashboard built with React, Express, and MongoDB.
+
+I enjoy building practical tools that combine clean interfaces with reliable backend systems, and I am continuing to strengthen my skills in backend development, Python, SQL, and data-driven applications.
+
+I am open to frontend or full-stack engineering opportunities and enjoy collaborating with other developers.
+
 
 ## 🌐 Socials:
 
